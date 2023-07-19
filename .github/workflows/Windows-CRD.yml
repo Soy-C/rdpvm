@@ -10,7 +10,7 @@ on:
         required: true
       pincode:
         description: 'Six digit Pin'
-        required: true
+        required: false
   
 jobs:
   build:
